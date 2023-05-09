@@ -10,6 +10,7 @@
 <h2>Projects</h2>
 <a href="//discordapplist.com" target="_BLANK">Discordapplist</a> - Website for M2, created with NEXTJS, ExpressJS and MongoDB - provided a website viewable way to see suggestions, tickets and more.<br>
 <a href="https://github.com/YouTubeMajed/TicketTool-" target="_BLANK">M2</a> - A closed source Discord Bot, using DiscordJS, MongoDB on par with Discordapplist
+<br>
 
 <!-- <h2> ⚡ Technologies </h2> -->
 <p>
