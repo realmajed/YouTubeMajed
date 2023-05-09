@@ -26,4 +26,4 @@
 
 <h2>Contact Me</h2>
 
-[Discord](//discord.com/users/320366721414201344) or via [Email](//mailto://majed@discordapplist.com).
+[Discord](//discord.com/users/320366721414201344) or via [Email](mailto://majed@discordapplist.com).
