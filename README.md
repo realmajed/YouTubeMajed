@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1643514968/9947/shaking-fist-dark-mode.gif?1643514968" width="30"/> Hello there.</h1>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1643514968/9947/shaking-fist-dark-mode.gif?1643514968" width="30"/> Hello</h1>
 <h3 align="center">
   I'm Majed, a 18 year old developer.
   <br><br><br>
@@ -9,7 +9,8 @@
 
 <h2>Projects</h2>
 <a href="//discordapplist.com" target="_BLANK">Discordapplist</a> - Website for M2, created with NEXTJS, ExpressJS and MongoDB - provided a website viewable way to see suggestions, tickets and more.<br>
-<a href="https://github.com/YouTubeMajed/TicketTool-" target="_BLANK">M2</a> - A closed source Discord Bot, using DiscordJS, MongoDB on par with Discordapplist
+<a href="https://github.com/YouTubeMajed/TicketTool-" target="_BLANK">M2</a> - A closed source Discord Bot, using DiscordJS, MongoDB on par with Discordapplist<br>
+<a href="https://discord.gg/xKvG4W4X6d" target="_BLANK">Radio Bot</a> - A closed source Discord Bot, using DiscordJS - plays over 90k+ Radio Stations
 <br><br><br>
 
 <!-- <h2> ⚡ Technologies </h2> -->
