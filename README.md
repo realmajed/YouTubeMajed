@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1643514968/9947/shaking-fist-dark-mode.gif?1643514968" width="30"/> Hello</h1>
 <h3 align="center">
-  I'm Majed, a 18 year old developer.
+  I'm Majed
   <br><br><br>
 
  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=realmajed&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=dark" />
