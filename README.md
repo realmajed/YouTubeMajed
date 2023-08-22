@@ -3,13 +3,13 @@
   I'm Majed, a 18 year old developer.
   <br><br><br>
 
- <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=youtubemajed&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=dark" />
+ <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=realmajed&hide_border=true&show_icons=true&count_private=true&hide=stars&bg_color=000000&theme=dark" />
 </h3>
 
 
 <h2>Projects</h2>
 <a href="//discordapplist.com" target="_BLANK">Discordapplist</a> - Website for M2, created with NEXTJS, ExpressJS and MongoDB - provided a website viewable way to see suggestions, tickets and more. - Not used for M2 anymore.<br>
-<a href="https://github.com/YouTubeMajed/TicketTool-" target="_BLANK">M2</a> - A closed source Discord Bot, using DiscordJS, MongoDB on par with Discordapplist<br>
+<a href="https://github.com/realmajed/TicketTool-" target="_BLANK">M2</a> - A closed source Discord Bot, using DiscordJS, MongoDB on par with Discordapplist<br>
 <a href="https://discord.gg/xKvG4W4X6d" target="_BLANK">Radio 24/7</a> - A closed source Discord Bot, using DiscordJS - plays over 90k+ Radio Stations<br>
 <a href="//discordapplist.com" target="_BLANK">Radio 24/7 Website</a> - A place where you can view info on how to use Radio 24/7<br>
 <a href="//discordapplist.com" target="_BLANK">Radio 24/7 Website Documentation</a> - Where the documentation for Radio 24/7 is. - Open Source
